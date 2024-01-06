@@ -13189,7 +13189,7 @@ Service Styles
   }
 }
 .axil-service .inner .icon::before {
-  background: linear-gradient(180deg, #EBFFFD 0%, #EFEEFA 100%);
+  
   position: absolute;
   content: "";
   right: 44%;
